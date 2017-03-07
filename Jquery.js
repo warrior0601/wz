@@ -1,0 +1,3 @@
+function weng(){
+	alert("wengwarrior");
+}
